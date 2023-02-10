@@ -1,4 +1,4 @@
-Hi I'm Cenker Akan. 
+Hi! I am Cenker Akan. 
 I am a sophomore student at Bilkent University Computer Engineering Department. 
 <!---
 CenkerAkan/CenkerAkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
